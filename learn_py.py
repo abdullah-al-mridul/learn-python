@@ -9,3 +9,8 @@ if 10 > 8:
 x = 5
 y = "John"
 print(x, y)
+
+# python statement
+print("Hello World!")
+print("Have a good day.")
+print("Learning Python is fun!")
