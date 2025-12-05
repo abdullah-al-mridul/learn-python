@@ -137,3 +137,12 @@ consectetur adipiscing elit,
 sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua."""
 print(a)
+
+# string array indexing
+a = "Hello, World!"
+print(a[1])
+print(a[2:5])
+print(a[:5])
+print(a[2:])
+print(a[-5:-2])
+print(a[-5:])
