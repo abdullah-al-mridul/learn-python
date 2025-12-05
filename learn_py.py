@@ -256,3 +256,8 @@ print(thislist)
 # pop list item
 thislist.pop()
 print(thislist)
+
+# loop through list
+thislist = ["apple", "banana", "cherry"]
+for x in thislist:
+    print(x)
