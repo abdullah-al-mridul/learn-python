@@ -156,3 +156,9 @@ if "free" in txt:
 a = "Hello, World!"
 print(a.upper())
 print(a.lower())
+
+# remove whitespace
+a = " Hello, World! "
+print(a.strip()) # returns "Hello, World!"
+print(a.lstrip()) # returns "Hello, World! "
+print(a.rstrip()) # returns " Hello, World"
