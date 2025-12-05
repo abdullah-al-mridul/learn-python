@@ -70,3 +70,7 @@ print(myvar, my_var, _my_var, myVar, MYVAR, myvar2)
 # multiple assignments
 x, y, z = "Orange", "Banana", "Cherry"
 print(x, y, z)
+
+# single value to multiple variables
+x = y = z = "Orange"
+print(x, y, z)
