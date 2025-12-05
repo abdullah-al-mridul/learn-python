@@ -307,3 +307,11 @@ print(thisdict["model"])
 # change dictionary items
 thisdict["year"] = 2018
 print(thisdict)
+
+# elif statement
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
