@@ -91,3 +91,11 @@ def myfunc():
   print("Python is " + x)
 myfunc()
 print("Python is " + x)
+
+# global keyword
+x = "awesome"
+def myfunc():
+  global x
+  x = "fantastic"   
+myfunc()
+print("Python is " + x)
