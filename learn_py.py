@@ -300,3 +300,10 @@ thisdict = {
   "year": 1964
 }
 print(thisdict)
+
+# access dictionary items
+print(thisdict["model"])
+
+# change dictionary items
+thisdict["year"] = 2018
+print(thisdict)
