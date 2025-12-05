@@ -151,3 +151,8 @@ print(a[-5:])
 txt = "The best things in life are free!"
 if "free" in txt:
   print("Yes, 'free' is present.")
+
+# upper and lower case
+a = "Hello, World!"
+print(a.upper())
+print(a.lower())
