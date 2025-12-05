@@ -273,3 +273,9 @@ print(thislist , thislist_two)
 thislist = ["apple", "banana", "cherry"]
 mylist = thislist.copy()
 print(mylist)
+
+# join list
+list1 = ["a", "b" , "c"]
+list2 = [1, 2, 3]
+list3 = list1 + list2
+print(list3)
