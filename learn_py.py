@@ -162,3 +162,10 @@ a = " Hello, World! "
 print(a.strip()) # returns "Hello, World!"
 print(a.lstrip()) # returns "Hello, World! "
 print(a.rstrip()) # returns " Hello, World"
+
+# split string and replace
+a = "Hello, World!"
+print(a.split(",")) # returns ['Hello', ' World!']
+a = "Hello, World!" 
+print(a.replace("H", "J")) # returns Jello, World!
+print(a.replace("World", "Everyone")) # returns Hello, Everyone!
