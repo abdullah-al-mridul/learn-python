@@ -283,5 +283,12 @@ print(list3)
 # tuple
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
+
 # access tuple items
 print(thistuple[1])
+
+# unpack tuple
+(apple, banana, cherry) = thistuple
+print(apple)
+print(banana)
+print(cherry)
