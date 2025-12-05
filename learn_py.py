@@ -261,3 +261,10 @@ print(thislist)
 thislist = ["apple", "banana", "cherry"]
 for x in thislist:
     print(x)
+
+# short list
+thislist = ["orange", "mango", "kiwi", "pineapple", "banana"]
+thislist_two = [5, 10, 15, 20, 25]
+thislist.sort()
+thislist_two.sort()
+print(thislist , thislist_two)
