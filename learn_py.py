@@ -83,3 +83,11 @@ print(x, y, z)
 # , vs +
 print("Hello", "World!")
 print("Hello" + "World!")
+
+# global variable
+x = "awesome"
+def myfunc():
+  x = "fantastic"
+  print("Python is " + x)
+myfunc()
+print("Python is " + x)
