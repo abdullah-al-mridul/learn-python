@@ -14,3 +14,6 @@ print(x, y)
 print("Hello World!")
 print("Have a good day.")
 print("Learning Python is fun!")
+
+# semicolons
+a = 5; b = 10; print(a + b)
