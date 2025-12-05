@@ -36,3 +36,6 @@ print("Hello" , end=" "); print("World!")
 print(7)
 print(3.14)
 print(2 + 3)
+
+# number and string combination
+print("The number is", 7 , "and the string is", "Python")
