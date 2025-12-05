@@ -327,3 +327,8 @@ match x:
     print("x == 3")
   case _:
     print("x is not present")
+
+# function
+def my_function():
+    print("Hello from a function")
+my_function()
