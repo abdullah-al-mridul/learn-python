@@ -315,3 +315,15 @@ if b > a:
   print("b is greater than a")
 elif a == b:
   print("a and b are equal")
+
+# match statement
+x = 2
+match x:
+  case 1:
+    print("x == 1")
+  case 2:
+    print("x == 2")
+  case 3:
+    print("x == 3")
+  case _:
+    print("x is not present")
