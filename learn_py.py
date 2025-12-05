@@ -279,3 +279,9 @@ list1 = ["a", "b" , "c"]
 list2 = [1, 2, 3]
 list3 = list1 + list2
 print(list3)
+
+# tuple
+thistuple = ("apple", "banana", "cherry")
+print(thistuple)
+# access tuple items
+print(thistuple[1])
