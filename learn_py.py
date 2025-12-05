@@ -5,8 +5,9 @@ Authored by: Abdullah Al Mridul
 Inspired by: W3Schools Python Tutorial
 '''
 
-# importing sys module
+# importing modules
 import sys
+import random
 
 # if statement
 if 10 > 8:
@@ -119,3 +120,7 @@ print(c)
 print(type(a))
 print(type(b))
 print(type(c))
+
+
+# random number
+print(random.randrange(1, 10))
