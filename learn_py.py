@@ -66,3 +66,7 @@ myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
 print(myvar, my_var, _my_var, myVar, MYVAR, myvar2)
+
+# multiple assignments
+x, y, z = "Orange", "Banana", "Cherry"
+print(x, y, z)
