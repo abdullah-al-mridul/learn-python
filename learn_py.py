@@ -1,3 +1,9 @@
+# learn_py.py
+# This script demonstrates basic Python syntax and features.
+# Authored by: Abdullah Al Mridul
+# Inspired by: W3Schools Python Tutorial
+
+# importing sys module
 import sys
 
 # if statement
