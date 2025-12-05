@@ -174,3 +174,14 @@ print(a.replace("World", "Everyone")) # returns Hello, Everyone!
 name = "John"
 age = 36
 print(f"My name is {name} and I am {age}")
+
+# operators
+x = 15
+y = 4
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x % y)
+print(x ** y)
+print(x // y)
