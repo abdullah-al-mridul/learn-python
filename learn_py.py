@@ -268,3 +268,8 @@ thislist_two = [5, 10, 15, 20, 25]
 thislist.sort()
 thislist_two.sort()
 print(thislist , thislist_two)
+
+# copy list
+thislist = ["apple", "banana", "cherry"]
+mylist = thislist.copy()
+print(mylist)
