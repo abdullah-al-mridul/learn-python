@@ -50,3 +50,8 @@ print(x, y, z)
 print(type(x))
 print(type(y))
 print(type(z))
+
+# case sensitivity
+a = 4
+A = "Sally"
+print(a , A)
