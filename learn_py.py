@@ -224,3 +224,7 @@ x = 5 + 3 * 2
 print(x)
 y = (5 + 3) * 2
 print(y)
+
+# list
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
