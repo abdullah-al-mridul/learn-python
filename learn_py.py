@@ -79,3 +79,7 @@ print(x, y, z)
 fruits = ["Apple", "Banana", "Cherry"]
 x, y, z = fruits
 print(x, y, z)
+
+# , vs +
+print("Hello", "World!")
+print("Hello" + "World!")
