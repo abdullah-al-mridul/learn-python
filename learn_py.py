@@ -31,3 +31,8 @@ print(single_quote, double_quote)
 
 # print without newline
 print("Hello" , end=" "); print("World!")
+
+# number
+print(7)
+print(3.14)
+print(2 + 3)
