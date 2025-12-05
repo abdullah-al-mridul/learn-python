@@ -218,3 +218,9 @@ print(x is not y)   # False
 x = ["apple", "banana"]
 print("banana" in x)    # True
 print("banana" not in x) # False
+
+# precedence of operators
+x = 5 + 3 * 2
+print(x)
+y = (5 + 3) * 2
+print(y)
