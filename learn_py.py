@@ -39,3 +39,9 @@ print(2 + 3)
 
 # number and string combination
 print("The number is", 7 , "and the string is", "Python")
+
+# casting
+x = str(3)    # x will be '3'
+y = int(3)    # y will be 3
+z = float(3)  # z will be 3.0
+print(x, y, z)
