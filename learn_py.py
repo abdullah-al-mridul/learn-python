@@ -169,3 +169,8 @@ print(a.split(",")) # returns ['Hello', ' World!']
 a = "Hello, World!" 
 print(a.replace("H", "J")) # returns Jello, World!
 print(a.replace("World", "Everyone")) # returns Hello, Everyone!
+
+# F-string
+name = "John"
+age = 36
+print(f"My name is {name} and I am {age}")
