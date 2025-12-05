@@ -213,3 +213,8 @@ x = ["apple", "banana"]
 y = x
 print(x is y)       # True
 print(x is not y)   # False
+
+# membership operators
+x = ["apple", "banana"]
+print("banana" in x)    # True
+print("banana" not in x) # False
