@@ -130,3 +130,10 @@ h = str("s1") # x will be 's1'
 i = str(2)    # y will be '2'
 j = str(3.0)  # z will be '3.0'
 print(a, b, c, d, e, f, g, h, i, j)
+
+# multile strings
+a = """Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua."""
+print(a)
