@@ -74,3 +74,8 @@ print(x, y, z)
 # single value to multiple variables
 x = y = z = "Orange"
 print(x, y, z)
+
+# unpacking a collection
+fruits = ["Apple", "Banana", "Cherry"]
+x, y, z = fruits
+print(x, y, z)
