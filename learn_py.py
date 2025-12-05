@@ -240,3 +240,19 @@ print(thislist[-3:-1])
 # change list items
 thislist[1] = "blackcurrant"
 print(thislist)
+
+# extend list
+thislist.extend(["orange", "kiwi"])
+print(thislist)
+
+# append list
+thislist.append("mango")
+print(thislist)
+
+# insert list
+thislist.insert(1, "orange")
+print(thislist)
+
+# pop list item
+thislist.pop()
+print(thislist)
