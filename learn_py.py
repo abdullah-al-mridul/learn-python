@@ -228,3 +228,11 @@ print(y)
 # list
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
+
+# access list items
+print(thislist[1])
+print(thislist[-1])
+print(thislist[1:3])
+print(thislist[:2])
+print(thislist[2:])
+print(thislist[-3:-1])
