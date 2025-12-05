@@ -292,3 +292,11 @@ print(thistuple[1])
 print(apple)
 print(banana)
 print(cherry)
+
+# dictionary
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict)
